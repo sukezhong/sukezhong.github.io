@@ -1,0 +1,105 @@
+.outside{
+	height: 2900px;
+	width: 100%;
+	background-color:#EFEEEE;	
+}
+.top{
+	height: 72px;
+	position: fixed;
+	width: 100%;
+	background-color:#EFEEEE ;
+}
+#navigation{
+	padding-top: 10px;
+}
+.Ptext:hover{
+	color: #FFB6B9;
+}
+p{
+	font-weight: 100;
+	font-size: 30px;
+	color: #000000;
+}
+.inside{
+height: 2700px;
+width: 85%;
+padding-top: 100px;
+background-color: #FFFFFF;
+}
+.portfolio{
+	margin-top: 100px;
+	margin-left: 0px;
+}
+.arrow{
+	margin-left: 40px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+.PshapeMs{
+	background-color: #FAD5C6;
+	height: 312px;
+	padding-left: 0px;	
+}
+
+.theFortune{
+	background-color: #FFFFFF;
+	height: 312px;
+	padding-left: 0px;
+}
+.Pgraphic{
+	background-color: #E0D4EC;
+	height: 312px;
+	padding-left: 0px;
+}
+.Pdmsp{
+	background-color: #FFFFFF;
+	height: 312px;
+	padding-left: 0px;
+}
+.me{
+	margin-top: 100px;
+	margin-bottom: 60px;
+}
+.timeline01{
+
+	margin-left: 70px;
+}
+
+.text{
+	font-size: 20px;
+	font-weight: 300;
+	color: #BFBEC0;
+}
+.me1{
+	width: 200px;
+	height: 350px;
+}
+.me2{
+	width: 200px;
+	height: 350px;
+	margin-left: 70px;
+}
+.me4{
+	width: 200px;
+	height: 200px;
+	margin-left: 70px;
+}
+.timeline02{
+
+	margin-left: 120px;
+}
+.end{
+	padding-top: 60px;
+}
+h6{
+	font-size: 15px;
+	font-weight: 100;
+}
+.fontStyle{
+	text-decoration: none;
+	color: #FFB6B9;
+}
+.fontStyle:hover{
+	color: #FFB6B9;
+}
+

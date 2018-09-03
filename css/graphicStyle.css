@@ -1,0 +1,28 @@
+.outside{
+	height: 3000px;
+	width: 100%;
+	background-color:#EFEEEE;	
+}
+.top{
+	height: 72px;
+	position: fixed;
+	width: 100%;
+	background-color:#EFEEEE ;
+}
+#navigation{
+	padding-top: 10px;
+}
+.inside{
+padding-top: 100px;	
+height: 2800px;
+color: #FFFFFF;
+}
+.bg{
+height: 2400px;
+background-image: url(../img/graphic.png);	
+background-size: 100%;
+background-repeat: none;
+}
+.end{
+	padding-top: 80px;
+}

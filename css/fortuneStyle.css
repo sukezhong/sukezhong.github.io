@@ -1,0 +1,38 @@
+.outside{
+	height: 1500px;
+	width: 100%;
+	background-color:#EFEEEE;	
+}
+.top{
+	height: 72px;
+	position: fixed;
+	width: 100%;
+	background-color:#EFEEEE ;
+}
+#navigation{
+	padding-top: 10px;
+}
+.inside{
+padding-top: 100px;	
+height: 1300px;
+width: 1000px;
+background-color: #FFFFFF;
+}
+.ffortune{
+	margin-top: 30px;
+	font-size: 40px;
+}
+.fortune{
+	margin-top: 10px;
+}
+.structure{
+	margin-top: 80px;
+}
+.end{
+	margin-top: 50px;
+	margin-left: 50px;	
+}
+.Infor{
+	margin-top: 10px;
+	margin-right: 40px;
+}
