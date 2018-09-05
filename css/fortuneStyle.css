@@ -1,5 +1,5 @@
 .outside{
-	height: 1500px;
+	height: 1700px;
 	width: 100%;
 	background-color:#EFEEEE;	
 }
@@ -14,7 +14,7 @@
 }
 .inside{
 padding-top: 100px;	
-height: 1300px;
+height: 1500px;
 width: 1000px;
 background-color: #FFFFFF;
 }
